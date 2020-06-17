@@ -1,5 +1,5 @@
 ---
-title: Un club de rol y jocs al Triangle Friki
+title: Un club de rol i jocs al Triangle Friki
 date: '2020-06-17'
 tags:
   - blog
