@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "Daus del Triangle",
+  "shortDesc": "Daus del Triangle és una associació lúdica del Casal Transformadors al cor del Triangle Friki, a Barcelona.",
+  "url": "https://dausdeltriangle.com",
+  "authorEmail": "hola@javierusobiaga.com",
+  "authorHandle": "@ProfDespistes",
+  "authorName": "Javier Usobiaga",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": false,
   "faviconPath": "/images/favicon.png"
 }

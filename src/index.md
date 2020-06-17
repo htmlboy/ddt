@@ -1,10 +1,11 @@
 ---
 layout: home
 title: Daus del Triangle
-metaDesc: "Daus del Triangle és una associació lúdica del Casal Transformadors
-  al cor del Triangle Friki. "
+metaDesc: 'Daus del Triangle és una associació lúdica del Casal Transformadors
+  al cor del Triangle Friki. '
 postsHeading: Últims posts
 archiveButtonText: Tots els posts
-socialImage: ""
+socialImage: ''
 ---
-Daus del Triangle és una associació lúdica del Casal Transformadors al cor del Triangle Friki. Més informació: [dausdeltriangle@gmail.com](mailto:dausdeltriangle@gmail.com)
+
+Daus del Triangle és una associació lúdica del Casal Transformadors al cor del Triangle Friki, a Barcelona. Més informació: [dausdeltriangle@gmail.com](mailto:dausdeltriangle@gmail.com)
