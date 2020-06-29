@@ -10,6 +10,6 @@ socialImage: ''
 
 Daus del Triangle és una associació lúdica del Casal Transformadors al cor del Triangle Friki, a Barcelona. Més informació: [dausdeltriangle@gmail.com](mailto:dausdeltriangle@gmail.com)
 
-¡Obertes les inscripcions per les partides i activitats de juliol 2020!
+Obertes les inscripcions per les partides i activitats de juliol 2020!
 
 <a href="/programacio" class="button">Veure programació</a>
