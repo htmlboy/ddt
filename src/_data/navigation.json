@@ -1,8 +1,18 @@
 {
   "items": [
     {
+      "text": "Programació",
+      "url": "/programacio",
+      "external": false
+    },
+    {
       "text": "Contacte",
-      "url": "/contact",
+      "url": "/contacte",
+      "external": false
+    },
+    {
+      "text": "Blog",
+      "url": "/archive",
       "external": false
     }
   ]
