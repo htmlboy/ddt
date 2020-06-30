@@ -4,7 +4,7 @@ permalink: '/programacio/index.html'
 layout: 'layouts/contact.njk'
 ---
 
-Aquesta és la programació de rol online i altres events dels Daus del Triangle per a Juliol de 2020. Totes les activitats son gratuïtes però requereixen inscripció prèvia.
+Aquesta és la programació de rol online i altres esdeveniments de Daus del Triangle per al juliol de 2020. Totes les activitats són gratuïtes però requereixen inscripció prèvia.
 
 <div id="eventbrite-widget-container-111710653572">
 </div>
@@ -28,4 +28,4 @@ Aquesta és la programació de rol online i altres events dels Daus del Triangle
     });
 </script>
 
-Si no pots veure la programació, et pots inscriure directament a la <a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-juliol-111710653572" target="_blank">pàgina de Eventbrite</a>
+Si no pots veure la programació, et pots inscriure directament a la <a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-juliol-111710653572" target="_blank">pàgina d'Eventbrite</a>
