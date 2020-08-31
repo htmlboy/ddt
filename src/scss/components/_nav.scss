@@ -1,6 +1,7 @@
 .nav {
   &__list {
     overflow-x: auto;
+    justify-content: center;
 
     // Add padding and neg margin to allow focus style visibility
     padding: 0.5rem;
