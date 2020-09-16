@@ -6,7 +6,7 @@ tags:
   - blog
   - rol
 ---
-Esta es una pequeña guía de qué son los juegos de rol y cómo se juega, con la idea de acelerar un poco las explicaciones iniciales para la gente nueva y poder aprovechar el tiempo. Pero si te queda alguna duda, ¡pregunta sin miedo!
+Esta es una pequeña guía de qué son los juegos de rol y cómo se juega, pensada para la gente que tiene curiosidad por esta actividad o que está a punto de jugar su primera partida.
 
 ## Lo básico
 
