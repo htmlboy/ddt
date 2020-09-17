@@ -12,7 +12,7 @@
   --color-stroke: #{get-color('slate')};
   --color-theme-primary: #{lighten(get-color('primary'), 50%)};
   --color-theme-primary-glare: #{lighten(get-color('primary-glare'), 50%)};
-  --color-action-bg: var(--color-theme-primary-glare);
+  --color-action-bg: var(--color-theme-primary);
   --color-action-text: #{get-color('dark')};
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('slate')};

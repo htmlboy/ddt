@@ -1,0 +1,21 @@
+.simple-link.simple-link {
+  color: var(--color-theme-primary);
+  text-decoration: none;
+  position: relative;
+
+  &::after {
+    content: '\25B6\FE0E';
+    font-size: 0.6em;
+    position: absolute;
+    right: -0.85rem;
+    top: 0.35rem;
+    transition: right 0.3s;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    &::after {
+      right: -1.2rem;
+    }
+  }
+}
