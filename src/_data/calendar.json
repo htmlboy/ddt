@@ -1,0 +1,66 @@
+{
+  "events": [
+    {
+      "end": true,
+      "day": "2 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: La Musa",
+      "sub": false,
+      "desc": "L'amor és la dolça pluja que cau lentament d'Aquell a les Altures. L'amor és el do de la vida. ¿No recordeu la Maledicció d'Ariel, que deia que menjaríem només cendres i beuríem només sang?"
+    },
+    {
+      "end": true,
+      "day": "2 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: La metròpoli",
+      "sub": "Joc/sistema: Ratas en las paredes",
+      "desc": "Formes part d’una unitat militar d’elit en missió de reconeixement per una regió boscosa dels Balcans. Algunes imatges per satèl·lit mostren una construcció enorme en una zona aïllada i remota. Les dades obtingudes pels sistemes de detecció electromagnètics són contradictòries, se sospita d’activitat militar secreta relacionada amb alguna nova tecnologia. Una aventura onírica d’horror còsmic."
+    },
+    {
+      "end": true,
+      "day": "3 octubre",
+      "week_day": "Dissabte",
+      "time": "17:00 - 20:00",
+      "title": "Jocs de taula en persona",
+      "sub": false,
+      "desc": "Jocs de taula a les taules a l'aire lliure que hi ha davant del Casal Transformadors (C/ Ausiàs Marc, 60)"
+    },
+    {
+      "day": "16 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: La Maledicció del penyal del Diable",
+      "sub": false,
+      "desc": "Conta la llegenda que en el penyal del Diable hi habiten sirenes precioses que, en dies assolellats, s'ajeuen sobre les roques, però que aquells que s'hi acosten massa no tornen. Potser només es tracta de contes de mariners beguts, però el que sí que és cert és que s'apropa un bon temporal i el farer, Tomas Hardy, aquesta nit no ha encès el far. L'alcalde ha intentat contactar amb ell, però no dóna senyals de vida, així que us ha encomanat la missió de comprobar en quin estat es troba Hardy i encendre el far costi el que costi... si podeu."
+    },
+    {
+      "sectiontitle": "🎃 Especial Halloween 🎃"
+    },
+    {
+      "day": "30 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: L'autòpsia de Jane Doe",
+      "sub": false,
+      "desc": "El propietari de la funerària d'una petita localitat i el seu fill, que treballa amb ell, reben un dia el cadàver de la víctima d'un misteriós crim: una bonica jove que no té cap causa aparent de mort. Tots dos intentaran revelar els intrigants motius de la defunció de la noia."
+    },
+    {
+      "day": "30 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: Els horrors de Mapleton",
+      "sub": "Suburban Gothic - FAE",
+      "desc": "A Mapleton hi han estat passant coses estranyes tota la vida, o com a mínim això és el que diuen els seus habitants. Les coses estranyes viuen en ells mateixos. Tot i així, els quatre assassinats ocorreguts en les últimes hores han fet saltar totes les alarmes, i un grup de policies veterans estan disposats a descobrir els horrors que s'amaguen en aquest petit poble. "
+    },
+    {
+      "day": "30 octubre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: La metròpoli",
+      "sub": "Ratas en las paredes",
+      "desc": "Formes part d’una unitat militar d’elit en missió de reconeixement per una regió boscosa dels Balcans. Algunes imatges per satèl·lit mostren una construcció enorme en una zona aïllada i remota. Les dades obtingudes pels sistemes de detecció electromagnètics són contradictòries, se sospita d’activitat militar secreta relacionada amb alguna nova tecnologia. Una aventura onírica d’horror còsmic."
+    }
+  ]
+}
