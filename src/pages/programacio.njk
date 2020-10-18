@@ -1,0 +1,92 @@
+---
+title: 'Programació'
+permalink: '/programacio/index.html'
+layout: 'layouts/contact.njk'
+---
+
+<p>
+  Aquesta és la programació de rol online i altres esdeveniments de Daus del Triangle per a l'octubre de 2020. Totes les activitats són gratuïtes però requereixen inscripció prèvia.
+</p>
+<div class="event__cta-wrapper">
+    <!-- Noscript content for added SEO -->
+  <noscript><a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-octubre-123043922685" rel="noopener noreferrer" target="_blank"></noscript>
+  <!-- You can customize this button any way you like -->
+  <button id="eventbrite-widget-modal-trigger-1" class="button button--big" type="button">Reservar entrada</button>
+  <noscript></a></noscript>
+</div>
+
+<h2>Octubre 2020</h2>
+
+<div class="event-list">
+  {% for event in calendar.events %}
+
+  {% if event.sectiontitle %}
+    <div class="event__section-title">
+      <h4>{{event.sectiontitle}}</h4>
+    </div>
+  {% else %}
+    <article class="event" {% if event.end %} data-end {% endif %}>
+      <div class="event__date">
+        <div class="event__day">{{ event.day}}</div>
+        <div class="event__week-day">{{ event.week_day}}</div>
+        <div class="event__time">{{ event.time}}</div>
+        {% if event.end %}
+          <span class="event__end">
+            Finalitzat
+          </span>
+        {% endif %}
+
+      </div>
+      <div class="event__content">
+        <h3 class="event__title">
+          {{ event.title}}
+        </h3>
+        {% if event.sub %}
+          <div class="event__sub">
+            {{ event.sub}}
+          </div>
+        {% endif %}
+        <div class="event__desc">
+          <p>
+            {{ event.desc}}
+          </p>
+        </div>
+      </div>
+    </article>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="event__cta-wrapper">
+    <!-- Noscript content for added SEO -->
+  <noscript><a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-octubre-123043922685" rel="noopener noreferrer" target="_blank"></noscript>
+  <!-- You can customize this button any way you like -->
+  <button id="eventbrite-widget-modal-trigger-2" class="button button--big" type="button">Reservar entrada</button>
+  <noscript></a></noscript>
+</div>
+
+<script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        //console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '123043922685',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1',
+        onOrderComplete: exampleCallback
+    });
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '123043922685',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-2',
+        onOrderComplete: exampleCallback
+    });
+</script>
+
+
+
