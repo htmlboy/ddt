@@ -7,10 +7,13 @@
     margin-bottom: 2rem;
   }
 
-  display: flex;
   padding-top: 1rem;
   margin-bottom: 1rem;
   border-top: 2px solid var(--soft-bg);
+
+  @media (min-width: 800px) {
+    display: flex;
+  }
 
   &[data-end] {
     opacity: .5;
@@ -33,9 +36,14 @@
   }
 
   &__date {
-    width: 10rem;
     flex-shrink: 0;
     line-height: 1.4;
+    margin-bottom: 1rem;
+
+    @media (min-width: 800px) {
+      width: 10rem;
+      margin-bottom: 0;
+    }
   }
 
   &__day {
@@ -49,11 +57,23 @@
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: .1em;
+    display: inline-block;
+    margin-right: .5rem;
+    @media (min-width: 800px) {
+      display: block;
+      margin-right: 0;
+    }
   }
 
   &__time {
     font-size: .8rem;
     opacity: .6;
+    display: inline-block;
+    margin-right: .5rem;
+    @media (min-width: 800px) {
+      display: block;
+      margin-right: 0;
+    }
   }
 
   &__end {
