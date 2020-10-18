@@ -38,7 +38,7 @@
   &__date {
     flex-shrink: 0;
     line-height: 1.4;
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
 
     @media (min-width: 800px) {
       width: 10rem;
@@ -84,6 +84,8 @@
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: .1em;
+    display: inline-block;
+    margin-bottom: .3rem;
   }
 
   &__content {
@@ -111,5 +113,19 @@
 
   &__cta-wrapper {
     text-align: center;
+  }
+
+  &__desc-trigger{
+    color: inherit;
+    background-color: transparent;
+    border: 0;
+    text-decoration: underline;
+    &.is-hidden {
+      display: none;
+    }
+  }
+
+  &__desc-hidden {
+    display: none;
   }
 }

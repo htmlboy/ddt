@@ -30,12 +30,6 @@ layout: 'layouts/contact.njk'
         <div class="event__day">{{ event.day}}</div>
         <div class="event__week-day">{{ event.week_day}}</div>
         <div class="event__time">{{ event.time}}</div>
-        {% if event.end %}
-          <span class="event__end">
-            Finalitzat
-          </span>
-        {% endif %}
-
       </div>
       <div class="event__content">
         <h3 class="event__title">
@@ -47,7 +41,13 @@ layout: 'layouts/contact.njk'
           </div>
         {% endif %}
         <div class="event__desc">
-          <p>
+          {% if event.end %}
+            <span class="event__end">
+              Finalitzat
+            </span>
+          {% endif %}
+          {% if event.end %} <button type="button" class="event__desc-trigger" data-desc-trigger>Veure més</button> {% endif %}
+          <p {% if event.end %} class="event__desc-hidden" {% endif %}>
             {{ event.desc}}
           </p>
         </div>
