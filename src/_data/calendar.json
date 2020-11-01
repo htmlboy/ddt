@@ -1,59 +1,67 @@
 {
   "events": [
     {
-      "end": true,
-      "day": "2 octubre",
+      "end": false,
+      "day": "6 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
-      "title": "Rol online: La Musa",
+      "title": "Rol online: El camí",
+      "sub": "Joc/sistema: 7 días de travesía",
+      "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
+    },
+    {
+      "end": false,
+      "day": "13 novembre",
+      "week_day": "Divendres",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: Cap de setmana a Bishop House",
+      "sub": "Joc/sistema: La Llamada de Cthulhu 7",
+      "desc": "Estimat amic: Tinc el plaer de comunicar-te que recentment m'he casat, la celebració va tenir lloc al Caire en el meu últim viatge. Per aquest motiu m'agradaria que vinguessis aquest cap de setmana a la meva mansió, per conèixer la meva esposa i parlar dels vells temps. Vindran alguns altres amics, crec que en coneixes a algun. T'espero aquest divendres al capvespre a: Bishop House, Carretera d'Aylesbury, km. 15, Dunwich, Massachusetts. Atentament: Nathan Bishop."
+    },
+    {
+      "end": false,
+      "day": "15 novembre",
+      "week_day": "Diumenge",
+      "time": "17:00 - 19:00",
+      "title": "Videojoc: Among us",
       "sub": false,
-      "desc": "L'amor és la dolça pluja que cau lentament d'Aquell a les Altures. L'amor és el do de la vida. ¿No recordeu la Maledicció d'Ariel, que deia que menjaríem només cendres i beuríem només sang?"
+      "desc": "Vine a jugar al popular videojoc Among us, en el qual els jugadors intenten esbrinar quin personatge és l'infiltrat que està atacant a la resta. Només et caldrà tenir el joc instal·lat al mòbil (és gratuït, iOS i Android) i un altre dispositiu per a unir-te a la videotrucada de la partida."
     },
     {
-      "end": true,
-      "day": "2 octubre",
+      "end": false,
+      "day": "20 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
-      "title": "Rol online: La metròpoli",
-      "sub": "Joc/sistema: Ratas en las paredes",
-      "desc": "Formes part d’una unitat militar d’elit en missió de reconeixement per una regió boscosa dels Balcans. Algunes imatges per satèl·lit mostren una construcció enorme en una zona aïllada i remota. Les dades obtingudes pels sistemes de detecció electromagnètics són contradictòries, se sospita d’activitat militar secreta relacionada amb alguna nova tecnologia. Una aventura onírica d’horror còsmic."
+      "title": "Rol online: El camí",
+      "sub": "Joc/sistema: 7 días de travesía",
+      "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
     },
     {
-      "end": true,
-      "day": "3 octubre",
+      "end": false,
+      "day": "21 novembre",
       "week_day": "Dissabte",
-      "time": "17:00 - 20:00",
-      "title": "Jocs de taula en persona",
+      "time": "22:00 - 2:00",
+      "title": "Rol online: Maleïdes colònies",
+      "sub": "Joc/sistema: Horrror Movie World-PbtA",
+      "desc": "Vine a crear una pel·lícula de terror en què un grup d'estudiants viuran una experiència d'horror i mort."
+    },
+    {
+      "end": false,
+      "day": "22 novembre",
+      "week_day": "Diumenge",
+      "time": "17:00 - 19:00",
+      "title": "Videojoc: Among us",
       "sub": false,
-      "desc": "Jocs de taula a les taules a l'aire lliure que hi ha davant del Casal Transformadors (C/ Ausiàs Marc, 60)"
+      "desc": "Vine a jugar al popular videojoc Among us, en el qual els jugadors intenten esbrinar quin personatge és l'infiltrat que està atacant a la resta. Només et caldrà tenir el joc instal·lat al mòbil (és gratuït, iOS i Android) i un altre dispositiu per a unir-te a la videotrucada de la partida."
     },
     {
-      "end": true,
-      "day": "16 octubre",
+      "end": false,
+      "day": "27 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
-      "title": "Rol online: La Maledicció del penyal del Diable",
-      "sub": false,
-      "desc": "Conta la llegenda que en el penyal del Diable hi habiten sirenes precioses que, en dies assolellats, s'ajeuen sobre les roques, però que aquells que s'hi acosten massa no tornen. Potser només es tracta de contes de mariners beguts, però el que sí que és cert és que s'apropa un bon temporal i el farer, Tomas Hardy, aquesta nit no ha encès el far. L'alcalde ha intentat contactar amb ell, però no dóna senyals de vida, així que us ha encomanat la missió de comprobar en quin estat es troba Hardy i encendre el far costi el que costi... si podeu."
-    },
-    {
-      "sectiontitle": "🎃 Especial Halloween 🎃"
-    },
-    {
-      "day": "30 octubre",
-      "week_day": "Divendres",
-      "time": "22:00 - 1:00",
-      "title": "Rol online: Els horrors de Mapleton",
-      "sub": "Suburban Gothic - FAE",
-      "desc": "A Mapleton hi han estat passant coses estranyes tota la vida, o com a mínim això és el que diuen els seus habitants. Les coses estranyes viuen en ells mateixos. Tot i així, els quatre assassinats ocorreguts en les últimes hores han fet saltar totes les alarmes, i un grup de policies veterans estan disposats a descobrir els horrors que s'amaguen en aquest petit poble. "
-    },
-    {
-      "day": "30 octubre",
-      "week_day": "Divendres",
-      "time": "22:00 - 1:00",
-      "title": "Rol online: La metròpoli",
-      "sub": "Ratas en las paredes",
-      "desc": "Formes part d’una unitat militar d’elit en missió de reconeixement per una regió boscosa dels Balcans. Algunes imatges per satèl·lit mostren una construcció enorme en una zona aïllada i remota. Les dades obtingudes pels sistemes de detecció electromagnètics són contradictòries, se sospita d’activitat militar secreta relacionada amb alguna nova tecnologia. Una aventura onírica d’horror còsmic."
+      "title": "Rol online: Cap de setmana a Bishop House",
+      "sub": "Joc/sistema: La Llamada de Cthulhu 7",
+      "desc": "Estimat amic: Tinc el plaer de comunicar-te que recentment m'he casat, la celebració va tenir lloc al Caire en el meu últim viatge. Per aquest motiu m'agradaria que vinguessis aquest cap de setmana a la meva mansió, per conèixer la meva esposa i parlar dels vells temps. Vindran alguns altres amics, crec que en coneixes a algun. T'espero aquest divendres al capvespre a: Bishop House, Carretera d'Aylesbury, km. 15, Dunwich, Massachusetts. Atentament: Nathan Bishop."
     }
   ]
 }
