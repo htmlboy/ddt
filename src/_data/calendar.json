@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "end": false,
+      "end": true,
       "day": "6 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
