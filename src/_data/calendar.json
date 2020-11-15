@@ -10,7 +10,7 @@
       "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
     },
     {
-      "end": false,
+      "end": true,
       "day": "13 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
@@ -19,7 +19,7 @@
       "desc": "Estimat amic: Tinc el plaer de comunicar-te que recentment m'he casat, la celebració va tenir lloc al Caire en el meu últim viatge. Per aquest motiu m'agradaria que vinguessis aquest cap de setmana a la meva mansió, per conèixer la meva esposa i parlar dels vells temps. Vindran alguns altres amics, crec que en coneixes a algun. T'espero aquest divendres al capvespre a: Bishop House, Carretera d'Aylesbury, km. 15, Dunwich, Massachusetts. Atentament: Nathan Bishop."
     },
     {
-      "end": false,
+      "end": true,
       "day": "15 novembre",
       "week_day": "Diumenge",
       "time": "17:00 - 19:00",
