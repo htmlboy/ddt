@@ -28,7 +28,7 @@
       "desc": "Vine a jugar al popular videojoc Among us, en el qual els jugadors intenten esbrinar quin personatge és l'infiltrat que està atacant a la resta. Només et caldrà tenir el joc instal·lat al mòbil (és gratuït, iOS i Android) i un altre dispositiu per a unir-te a la videotrucada de la partida."
     },
     {
-      "end": false,
+      "end": true,
       "day": "20 novembre",
       "week_day": "Divendres",
       "time": "22:00 - 1:00",
@@ -37,7 +37,7 @@
       "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
     },
     {
-      "end": false,
+      "end": true,
       "day": "21 novembre",
       "week_day": "Dissabte",
       "time": "22:00 - 2:00",
@@ -46,7 +46,7 @@
       "desc": "Vine a crear una pel·lícula de terror en què un grup d'estudiants viuran una experiència d'horror i mort."
     },
     {
-      "end": false,
+      "end": true,
       "day": "22 novembre",
       "week_day": "Diumenge",
       "time": "19:00 - 21:00",
