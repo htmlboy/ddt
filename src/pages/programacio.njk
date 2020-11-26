@@ -7,15 +7,18 @@ layout: 'layouts/contact.njk'
 <p>
   Aquesta és la programació de rol online i altres esdeveniments de Daus del Triangle per al novembre de 2020. Totes les activitats són gratuïtes però requereixen inscripció prèvia.
 </p>
-<div class="event__cta-wrapper">
+<p>
+  Aquesta programació es fa en col·laboració amb el club de rol <a href="http://resistencialudica.com/" target="_blank" class="link">Resistencia Lúdica</a>.
+</p>
+{# <div class="event__cta-wrapper">
     <!-- Noscript content for added SEO -->
   <noscript><a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-novembre-127638852243" rel="noopener noreferrer" target="_blank"></noscript>
   <!-- You can customize this button any way you like -->
   <button id="eventbrite-widget-modal-trigger-1" class="button button--big" type="button">Reservar entrada</button>
   <noscript></a></noscript>
-</div>
+</div> #}
 
-<h2>Novembre 2020</h2>
+<h2>Desembre 2020</h2>
 
 <div class="event-list">
   {% for event in calendar.events %}
@@ -50,6 +53,11 @@ layout: 'layouts/contact.njk'
           <p {% if event.end %} class="event__desc-hidden" {% endif %}>
             {{ event.desc}}
           </p>
+          {% if event.end === false %}
+            <a href="#" class="event__small-cta">
+              Inscriu-te
+            </a>
+          {% endif %}
         </div>
       </div>
     </article>
@@ -57,17 +65,17 @@ layout: 'layouts/contact.njk'
   {% endfor %}
 </div>
 
-<div class="event__cta-wrapper">
+{# <div class="event__cta-wrapper">
     <!-- Noscript content for added SEO -->
   <noscript><a href="https://www.eventbrite.es/e/entradas-daus-del-triangle-novembre-127638852243" rel="noopener noreferrer" target="_blank"></noscript>
   <!-- You can customize this button any way you like -->
   <button id="eventbrite-widget-modal-trigger-2" class="button button--big" type="button">Reservar entrada</button>
   <noscript></a></noscript>
-</div>
+</div> #}
 
-<script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script>
+{# <script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script> #}
 
-<script type="text/javascript">
+{# <script type="text/javascript">
     var exampleCallback = function() {
         //console.log('Order complete!');
     };
@@ -86,7 +94,7 @@ layout: 'layouts/contact.njk'
         modalTriggerElementId: 'eventbrite-widget-modal-trigger-2',
         onOrderComplete: exampleCallback
     });
-</script>
+</script> #}
 
 
 
