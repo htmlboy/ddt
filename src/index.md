@@ -10,7 +10,7 @@ socialImage: ''
 
 Daus del Triangle és una associació lúdica del Casal Transformadors al cor del Triangle Friki, a Barcelona. La major part de les nostres activitats i partides de rol són ara mateix <strong>online</strong>, a través de videotrucades.
 
-Obertes les inscripcions per les partides i activitats de novembre 2020!
+Fes una cop d'ull a les partides i activitats que estem preparant!
 
 <a href="/programacio" class="button">Veure programació</a>
 
