@@ -5,7 +5,7 @@ layout: 'layouts/contact.njk'
 ---
 
 <p>
-  Aquesta és la programació de rol online i altres esdeveniments de Daus del Triangle per al novembre de 2020. Totes les activitats són gratuïtes però requereixen inscripció prèvia.
+  Aquesta és la programació de rol online i altres esdeveniments de Daus del Triangle. Totes les activitats són gratuïtes però requereixen inscripció prèvia.
 </p>
 <p>
   Aquesta programació es fa en col·laboració amb el club de rol <a href="http://resistencialudica.com/" target="_blank" class="link">Resistencia Lúdica</a>.
@@ -54,7 +54,7 @@ layout: 'layouts/contact.njk'
             {{ event.desc}}
           </p>
           {% if event.end === false %}
-            <a href="#" class="event__small-cta">
+            <a href="{{ event.url}}" target="_blank" class="event__small-cta">
               Inscriu-te
             </a>
           {% endif %}
