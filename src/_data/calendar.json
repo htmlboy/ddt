@@ -1,67 +1,134 @@
 {
   "events": [
     {
-      "end": true,
-      "day": "6 novembre",
-      "week_day": "Divendres",
+      "end": false,
+      "day": "1 desembre",
+      "week_day": "Dimarts",
       "time": "22:00 - 1:00",
-      "title": "Rol online: El camí",
-      "sub": "Joc/sistema: 7 días de travesía",
-      "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
-    },
-    {
-      "end": true,
-      "day": "13 novembre",
-      "week_day": "Divendres",
-      "time": "22:00 - 1:00",
-      "title": "Rol online: Cap de setmana a Bishop House",
+      "title": "Rol online: La cabaña del tío Tom",
       "sub": "Joc/sistema: La Llamada de Cthulhu 7",
-      "desc": "Estimat amic: Tinc el plaer de comunicar-te que recentment m'he casat, la celebració va tenir lloc al Caire en el meu últim viatge. Per aquest motiu m'agradaria que vinguessis aquest cap de setmana a la meva mansió, per conèixer la meva esposa i parlar dels vells temps. Vindran alguns altres amics, crec que en coneixes a algun. T'espero aquest divendres al capvespre a: Bishop House, Carretera d'Aylesbury, km. 15, Dunwich, Massachusetts. Atentament: Nathan Bishop."
+      "desc": "Boston, 15 de octubre de 1923. 10.00 horas. Uno de los aventureros del grupo recibe una llamada telefónica del profesor Stanislav Pulaski, antiguo profesor suyo en la universidad. Pulaski está sumamente inquieto, porque dice estar a punto de desvelar para la humanidad un…",
+      "url": "https://resistencialudica.com/event/%E2%9C%88-la-cabana-del-tio-tom-la-llamada-de-cthulhu-7/"
     },
     {
-      "end": true,
-      "day": "15 novembre",
-      "week_day": "Diumenge",
-      "time": "17:00 - 19:00",
-      "title": "Videojoc: Among us",
-      "sub": false,
-      "desc": "Vine a jugar al popular videojoc Among us, en el qual els jugadors intenten esbrinar quin personatge és l'infiltrat que està atacant a la resta. Només et caldrà tenir el joc instal·lat al mòbil (és gratuït, iOS i Android) i un altre dispositiu per a unir-te a la videotrucada de la partida."
-    },
-    {
-      "end": true,
-      "day": "20 novembre",
+      "end": false,
+      "day": "4 desembre",
       "week_day": "Divendres",
-      "time": "22:00 - 1:00",
-      "title": "Rol online: El camí",
-      "sub": "Joc/sistema: 7 días de travesía",
-      "desc": "Han passat anys de la catàstrofe. Un grup de supervivents està a punt d'acabar un llarg viatge i tan sols els queden 7 dies per arribar al seu destí. Això, si el fred, la fam i els perills del camí els ho permeten."
+      "time": "22:00 - 00:00",
+      "title": "Rol online: Babylon Zirkus",
+      "sub": "Joc/sistema: Propi",
+      "desc": "Berlín, 1929. Arriba l’hivern a Berlín i, amb el fred, els berlinesos troben l’escalf i el caliu en multitud de cabarets, bars, cinemes, prostíbuls i sales de ball. Però una nova opció d’oci ha arribat a la ciutat…",
+      "url": "https://resistencialudica.com/event/babylon-zirkus-sistema-propi/"
     },
     {
-      "end": true,
-      "day": "21 novembre",
+      "end": false,
+      "day": "4 desembre",
+      "week_day": "Divendres",
+      "time": "22:00 - 0:30",
+      "title": "Rol en vivo online: Miércoles de Ceniza",
+      "sub": false,
+      "desc": "Miércoles de Ceniza es un rol en vivo de salón de textura oscura y con tintes de drama. La historia gira en torno al recuerdo del día del atraco a la basílica de Saint Patrick en Detroit, realizado por la banda de El León.",
+      "url": "https://resistencialudica.com/event/miercoles-de-ceniza-rol-en-vivo/"
+    },
+    {
+      "end": false,
+      "day": "7 desembre",
+      "week_day": "Dilluns",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: A les profunditats",
+      "sub": "Joc/sistema: Powered by the Apocalypse",
+      "desc": "Un grup d’amics que porten temps sense veure’s per motius de feina decideixen organitzar una sortida d’aventura per retrobar-se.",
+      "url": "https://resistencialudica.com/event/en-las-profundidades-pbta/"
+    },
+    {
+      "end": false,
+      "day": "8 desembre",
+      "week_day": "Dimarts",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: La desaparición de Linda Warren",
+      "sub": "Joc/sistema: La Llamada de Cthulhu 7",
+      "desc": "Los investigadores se conocen entre sí de frecuentar con más o menos asiduidad el bar de Sony (Boston). No es gran cosa y está normalmente vacío, pero alberga en su sótano el Witch Club, uno de los mejores y más animados garitos (ilegales, por supuesto) de juego y bebida de la ciudad…",
+      "url": "https://resistencialudica.com/event/%e2%9c%88-la-desaparicion-de-linda-warren-la-llamada-de-cthulhu-7/"
+    },
+    {
+      "end": false,
+      "day": "11 desembre",
+      "week_day": "Divendres",
+      "time": "22:00 - 00:30",
+      "title": "Rol en vivo online: El búnker",
+      "sub": false,
+      "desc": "Este rol en vivo sitúa a cuatro soldados operadores de radio en un búnker en plena Segunda Guerra Mundial. La guerra les ha separado de sus unidades y ahora están a la espera de un nuevo destino.",
+      "url": "https://resistencialudica.com/event/el-bunker-rol-en-vivo/"
+    },
+    {
+      "end": false,
+      "day": "12 desembre",
       "week_day": "Dissabte",
-      "time": "22:00 - 2:00",
-      "title": "Rol online: Maleïdes colònies",
-      "sub": "Joc/sistema: Horrror Movie World-PbtA",
-      "desc": "Vine a crear una pel·lícula de terror en què un grup d'estudiants viuran una experiència d'horror i mort."
+      "time": "22:00 - 00:30",
+      "title": "Rol online: Niños del Ocaso",
+      "sub": "Joc/sistema: Xd6",
+      "desc": "Juego de narración compartida sobre unos niños que se unen para sobrevivir en un mundo roto a causa de un apocalipsis conocido como El Ocaso. Todos los adultos del planeta se han convertido en criaturas malvadas, salvajes y sanguinarias a quienes llaman Los Caídos. Este es el destino que nos espera a todos cuando lleguemos a una edad entre 16 y 18 años. Cada uno de nosotros asumirá el papel de uno de estos “Niños del Ocaso”.",
+      "url": "https://resistencialudica.com/event/ninos-del-ocaso-xd6/"
     },
     {
-      "end": true,
-      "day": "22 novembre",
-      "week_day": "Diumenge",
-      "time": "19:00 - 21:00",
-      "title": "Videojoc: Among us",
-      "sub": false,
-      "desc": "Vine a jugar al popular videojoc Among us, en el qual els jugadors intenten esbrinar quin personatge és l'infiltrat que està atacant a la resta. Només et caldrà tenir el joc instal·lat al mòbil (és gratuït, iOS i Android) i un altre dispositiu per a unir-te a la videotrucada de la partida."
-    },
-    {
-      "end": true,
-      "day": "27 novembre",
-      "week_day": "Divendres",
-      "time": "22:00 - 1:00",
-      "title": "Rol online: Cap de setmana a Bishop House",
+      "end": false,
+      "day": "15 desembre",
+      "week_day": "Dimarts",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: Los cazalibros",
       "sub": "Joc/sistema: La Llamada de Cthulhu 7",
-      "desc": "Estimat amic: Tinc el plaer de comunicar-te que recentment m'he casat, la celebració va tenir lloc al Caire en el meu últim viatge. Per aquest motiu m'agradaria que vinguessis aquest cap de setmana a la meva mansió, per conèixer la meva esposa i parlar dels vells temps. Vindran alguns altres amics, crec que en coneixes a algun. T'espero aquest divendres al capvespre a: Bishop House, Carretera d'Aylesbury, km. 15, Dunwich, Massachusetts. Atentament: Nathan Bishop."
+      "desc": "Uno de los investigadores recibe la emocionada llamada de su amigo Walter Pitgrilli, un coleccionista apasionado de libros raros. Pitgrilli disfruta de una acomodada posición gracias a la herencia recibida a la muerte de su madre, y ello le permite dedicarse plenamente a su afición de coleccionar libros…",
+      "url": "https://resistencialudica.com/event/%e2%9c%88-los-cazalibros-la-llamada-de-cthulhu/"
+    },
+    {
+      "end": false,
+      "day": "18 desembre",
+      "week_day": "Dissabte",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: Carne quemada",
+      "sub": "Joc/sistema: Cthulhu d100",
+      "desc": "Sois los miembros de un equipo de investigación, Strange Matters, centrado en el misterio y las conspiraciones. Vuestro modo de ganaros (o mal ganaros) la vida es la publicación en vuestro podcast de las investigaciones que hacéis. El programa se llama <em>Charlas desde las sombras</em>.",
+      "url": "https://resistencialudica.com/event/carne-quemada-cthulhu-d100/"
+    },
+    {
+      "end": false,
+      "day": "18 desembre",
+      "week_day": "Dissabte",
+      "time": "22:00 - 1:00",
+      "title": "Rol online: Pesadilla antes de Navidad",
+      "sub": "Joc/sistema: propi",
+      "desc": "Jack Skeleton, el rey Calabaza, tiene un plan para traer la Navidad a la Ciudad de Halloween. Pero para que todo salga como espera, necesita secuestrar a un tal “Santa Claus”, y requerirá la ayuda de sus fieles conciudadanos para este menester.",
+      "url": "https://resistencialudica.com/event/pesadilla-antes-de-navidad-sistema-propio/"
+    },
+    {
+      "end": false,
+      "day": "20 desembre",
+      "week_day": "Diumenge",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: Potter’s Legacy",
+      "sub": "Joc/sistema: Gumshoe",
+      "desc": "Han passat gairebé 20 anys de la mort de Voldemort. Alguns dels seus seguidors, fugits, sembla que estan retornant. Un cadàver aparegut en un carreró de York desperta les sospites del Ministeri de la Màgia que decideix enviar alguns Aurors a veure què passa.",
+      "url": "https://resistencialudica.com/event/potters-legacy-gumshoe/"
+    },
+    {
+      "end": false,
+      "day": "22 desembre",
+      "week_day": "Dimarts",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: Muerte en el expreso",
+      "sub": "Joc/sistema: La Llamada de Cthulhu 7",
+      "desc": "Debo decírselo a alguien, Henry, y tú eres el único que puede entenderlo. Solo tú puedes convencerme de que no me estoy volviendo loco, de que lo que he vivido fue realidad, y no fruto de una mente desequilibrada. Formaba parte del equipo de McMurdoc y O’Connors…",
+      "url": "https://resistencialudica.com/event/%e2%9c%88-muerte-en-el-expreso-la-llamada-de-cthulhu/"
+    },
+    {
+      "end": false,
+      "day": "29 desembre",
+      "week_day": "Dimarts",
+      "time": "22:00 - 00:30",
+      "title": "Rol online: La isla de la paz",
+      "sub": "Joc/sistema: La Llamada de Cthulhu 7",
+      "desc": "NECESITAMOS: grupo de hombres, de 21 a 40 años, a ser posible con experiencia arqueológica en el estado de Guerrero, en México. Buena remuneración. Interesados presentarse en la habitación 201 del Hotel Savoy, hoy a las 17 horas.",
+      "url": "https://resistencialudica.com/event/%e2%9c%88-la-isla-de-la-paz-la-llamada-de-cthulhu/"
     }
   ]
 }

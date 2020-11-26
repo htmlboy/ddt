@@ -1,7 +1,8 @@
-:root {--soft-bg: #3f3f3f;}
+:root {
+  --soft-bg: #3f3f3f;
+}
 
 .event {
-
   &-list {
     margin-top: 1rem;
     margin-bottom: 2rem;
@@ -16,7 +17,7 @@
   }
 
   &[data-end] {
-    opacity: .5;
+    opacity: 0.5;
   }
 
   &:first-child,
@@ -29,16 +30,16 @@
     font-size: 0.8rem;
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     background-color: var(--soft-bg);
-    padding: .5rem;
-    margin: 2rem 0 .5rem;
+    padding: 0.5rem;
+    margin: 2rem 0 0.5rem;
   }
 
   &__date {
     flex-shrink: 0;
     line-height: 1.4;
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
 
     @media (min-width: 800px) {
       width: 10rem;
@@ -53,12 +54,12 @@
 
   &__week-day {
     font-size: 0.8rem;
-    opacity: .6;
+    opacity: 0.6;
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     display: inline-block;
-    margin-right: .5rem;
+    margin-right: 0.5rem;
     @media (min-width: 800px) {
       display: block;
       margin-right: 0;
@@ -66,10 +67,10 @@
   }
 
   &__time {
-    font-size: .8rem;
-    opacity: .6;
+    font-size: 0.8rem;
+    opacity: 0.6;
     display: inline-block;
-    margin-right: .5rem;
+    margin-right: 0.5rem;
     @media (min-width: 800px) {
       display: block;
       margin-right: 0;
@@ -83,39 +84,39 @@
     font-size: 0.6rem;
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     display: inline-block;
-    margin-bottom: .3rem;
+    margin-bottom: 0.3rem;
   }
 
   &__content {
     font-size: 1rem;
   }
 
-  &__title {
+  &__title  {
     display: block;
     font-size: 1.5rem;
   }
 
   &__sub {
     font-size: 0.6rem;
-    opacity: .6;
+    opacity: 0.6;
     text-transform: uppercase;
     font-weight: bold;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
   }
 
   &__desc {
-    font-size: .8rem;
-    margin-top: .5rem;
-    opacity: .6;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    opacity: 0.6;
   }
 
   &__cta-wrapper {
     text-align: center;
   }
 
-  &__desc-trigger{
+  &__desc-trigger {
     color: inherit;
     background-color: transparent;
     border: 0;
@@ -127,5 +128,22 @@
 
   &__desc-hidden {
     display: none;
+  }
+
+  &__small-cta {
+    background-color: var(--color-action-bg);
+    color: var(--color-action-text);
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    display: inline-block;
+    margin-top: 0.5rem;
+    text-decoration: none;
+    &:hover {
+      filter: brightness(1.2);
+    }
   }
 }
