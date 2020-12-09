@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "end": false,
+      "end": true,
       "day": "1 desembre",
       "week_day": "Dimarts",
       "time": "22:00 - 1:00",
@@ -11,7 +11,7 @@
       "url": "https://resistencialudica.com/event/%E2%9C%88-la-cabana-del-tio-tom-la-llamada-de-cthulhu-7/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "4 desembre",
       "week_day": "Divendres",
       "time": "22:00 - 00:00",
@@ -21,7 +21,7 @@
       "url": "https://resistencialudica.com/event/babylon-zirkus-sistema-propi/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "4 desembre",
       "week_day": "Divendres",
       "time": "22:00 - 0:30",
@@ -31,7 +31,7 @@
       "url": "https://resistencialudica.com/event/miercoles-de-ceniza-rol-en-vivo/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "7 desembre",
       "week_day": "Dilluns",
       "time": "22:00 - 00:30",
@@ -41,7 +41,7 @@
       "url": "https://resistencialudica.com/event/en-las-profundidades-pbta/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "8 desembre",
       "week_day": "Dimarts",
       "time": "22:00 - 1:00",
@@ -54,7 +54,7 @@
       "end": false,
       "day": "11 desembre",
       "week_day": "Divendres",
-      "time": "22:00 - 00:30",
+      "time": "18:00 - 21:00",
       "title": "Rol en vivo online: El búnker",
       "sub": false,
       "desc": "Este rol en vivo sitúa a cuatro soldados operadores de radio en un búnker en plena Segunda Guerra Mundial. La guerra les ha separado de sus unidades y ahora están a la espera de un nuevo destino.",
