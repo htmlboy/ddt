@@ -51,7 +51,7 @@
       "url": "https://resistencialudica.com/event/%e2%9c%88-la-desaparicion-de-linda-warren-la-llamada-de-cthulhu-7/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "11 desembre",
       "week_day": "Divendres",
       "time": "18:00 - 21:00",
@@ -61,7 +61,7 @@
       "url": "https://resistencialudica.com/event/el-bunker-rol-en-vivo/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "12 desembre",
       "week_day": "Dissabte",
       "time": "22:00 - 00:30",
@@ -71,7 +71,7 @@
       "url": "https://resistencialudica.com/event/ninos-del-ocaso-xd6/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "15 desembre",
       "week_day": "Dimarts",
       "time": "22:00 - 00:30",
@@ -81,9 +81,9 @@
       "url": "https://resistencialudica.com/event/%e2%9c%88-los-cazalibros-la-llamada-de-cthulhu/"
     },
     {
-      "end": false,
+      "end": true,
       "day": "18 desembre",
-      "week_day": "Dissabte",
+      "week_day": "Divendres",
       "time": "22:00 - 00:30",
       "title": "Rol online: Carne quemada",
       "sub": "Joc/sistema: Cthulhu d100",
@@ -91,8 +91,8 @@
       "url": "https://resistencialudica.com/event/carne-quemada-cthulhu-d100/"
     },
     {
-      "end": false,
-      "day": "18 desembre",
+      "end": true,
+      "day": "19 desembre",
       "week_day": "Dissabte",
       "time": "22:00 - 1:00",
       "title": "Rol online: Pesadilla antes de Navidad",
