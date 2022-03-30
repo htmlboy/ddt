@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Programació",
-      "url": "/programacio",
-      "external": false
-    },
-    {
       "text": "Contacte",
       "url": "/contacte",
       "external": false
